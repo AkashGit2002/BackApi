@@ -1,0 +1,30 @@
+[
+	{
+		"color1": "red",
+		"value1": "#f00"
+	},
+	{
+		"color2": "green",
+		"value2": "#0f0"
+	},
+	{
+		"color3": "blue",
+		"value3": "#00f"
+	},
+	{
+		"color4": "cyan",
+		"value4": "#0ff"
+	},
+	{
+		"color5": "magenta",
+		"value5": "#f0f"
+	},
+	{
+		"color6": "yellow",
+		"value6": "#ff0"
+	},
+	{
+		"color7": "black",
+		"value7": "#000"
+	}
+]
